@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Hello，欢迎来到我的主页。
 
-我目前是一名android程序猿，是稀土掘金的签约作者，博客分享主要在掘金！当然，你也可以在一些分享活动也能看到我！目前主要方向是android性能优化，NDK开发，compose，flutter等，欢迎点赞我的仓库！！
+我目前是一名android程序猿，是稀土掘金的签约作者【Pika】，博客分享主要在掘金！当然，你也可以在一些分享活动也能看到我！目前主要方向是android性能优化，NDK开发，compose，flutter等，欢迎点赞我的仓库！！
 
 目前活跃情况：
 1. 不定期更新个人仓库
